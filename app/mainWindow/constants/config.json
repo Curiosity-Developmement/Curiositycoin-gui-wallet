@@ -1,0 +1,21 @@
+{
+  "walletFile": "",
+  "enableAutoOptimization": true,
+  "scanCoinbaseTransactions": false,
+  "autoSelectDaemon": true,
+  "minimizeToTray": false,
+  "logLevel": "DISABLED",
+  "daemonHost": "45.79.35.29",
+  "daemonPort": 8296,
+  "darkMode": true,
+  "displayCurrency": "XKR",
+  "selectedFiat": "usd",
+  "fiatSymbol": "$",
+  "symbolLocation": "prefix",
+  "fiatDecimals": 2,
+  "autoLockInterval": 15,
+  "autoLockEnabled": true,
+  "useLocalDaemon": false,
+  "daemonLogPath": "",
+  "fixedFee": true
+}
