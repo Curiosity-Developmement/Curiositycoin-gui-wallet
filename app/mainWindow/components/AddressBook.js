@@ -8,7 +8,7 @@ import jdenticon from 'jdenticon';
 import {
   validateAddress,
   validatePaymentID
-} from 'kryptokrona-wallet-backend-js/dist/lib/ValidateParameters';
+} from 'curiositycoin-wallet-backend-js/dist/lib/ValidateParameters';
 import NavBar from './NavBar';
 import BalanceTop from './BalanceTop'
 import BottomBar from './BottomBar';

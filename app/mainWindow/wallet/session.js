@@ -3,7 +3,7 @@
 // Please see the included LICENSE file for more information.
 import request from 'request-promise';
 import log from 'electron-log';
-import { DaemonConnection } from 'kryptokrona-wallet-backend-js';
+import { DaemonConnection } from 'curiositycoin-wallet-backend-js';
 import { config, eventEmitter } from '../index';
 import { roundToNearestHundredth } from '../utils/utils';
 

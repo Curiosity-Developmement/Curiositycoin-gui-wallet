@@ -31,9 +31,7 @@
       "prettier --ignore-path .eslintignore --parser json --write",
       "git add"
     ],
-    "*.{css,scss}": [
-
-    ],
+    "*.{css,scss}": [],
     "*.{html,md,yml}": [
       "prettier --ignore-path .eslintignore --single-quote --write",
       "git add"
@@ -220,6 +218,7 @@
     "connected-react-router": "^6.8.0",
     "core-js": "^2.6.11",
     "csv-writer": "^1.6.0",
+    "curiositycoin-wallet-backend-js": "^2.2.1",
     "devtron": "^1.4.0",
     "electron-context-menu": "git+https://github.com/ExtraHash/electron-context-menu.git",
     "electron-debug": "^2.2.0",

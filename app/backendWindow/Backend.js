@@ -7,7 +7,7 @@ import {
   LogLevel,
   prettyPrintAmount,
   WalletErrorCode
-} from 'kryptokrona-wallet-backend-js';
+} from 'curiositycoin-wallet-backend-js';
 import log from 'electron-log';
 import { ipcRenderer } from 'electron';
 import { createObjectCsvWriter } from 'csv-writer';

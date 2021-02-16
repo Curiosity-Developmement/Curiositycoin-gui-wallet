@@ -8,7 +8,7 @@ import ReactTooltip from 'react-tooltip';
 import {
   createIntegratedAddress,
   validatePaymentID
-} from 'kryptokrona-wallet-backend-js';
+} from 'curiositycoin-wallet-backend-js';
 import { session, il8n, loginCounter, config } from '../index';
 import NavBar from './NavBar';
 import BalanceTop from './BalanceTop';
