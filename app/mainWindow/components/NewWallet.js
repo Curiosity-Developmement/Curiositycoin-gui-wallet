@@ -193,7 +193,7 @@ export default class NewWallet extends Component<Props, State> {
       if (confirmWallet) {
         // if the addresses match, seeds match
         if (
-          confirmWallet.getPrimaryAddress() === newWallet.getPrimaryAddress()
+          confirmWallet.getPrimaryAddress() == newWallet.getPrimaryAddress()
         ) {
           // get the save as path
           const options = {
